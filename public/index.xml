@@ -13,8 +13,17 @@
       <link>https://example.org/posts/my-first-post/</link>
       <pubDate>Sun, 04 Feb 2024 16:08:48 +0000</pubDate>
       <guid>https://example.org/posts/my-first-post/</guid>
-      <description>Hello World </description>
+      <description>Hello World This is my first post. I&amp;rsquo;m testing the waters with Hugo.
+Here is a quote
+Here is some styled test
+A subheading </description>
       <content:encoded><![CDATA[<h1 id="hello-world">Hello World</h1>
+<p>This is my first post. I&rsquo;m testing the waters with Hugo.</p>
+<blockquote>
+<p>Here is a quote</p>
+</blockquote>
+<p>Here is some <em>styled</em> test</p>
+<h2 id="a-subheading">A subheading</h2>
 ]]></content:encoded>
     </item>
   </channel>
