@@ -10,6 +10,14 @@ This is my first post. I'm testing the waters with Hugo.
 
 > Here is a quote
 
-Here is some _styled_ test
+Here is some _styled_ test!!!
 
-## A subheading
+## Some code
+
+```python
+print("Hello World")
+```
+
+```bash
+echo "Hello World"
+```
